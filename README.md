@@ -15,3 +15,7 @@ https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_international_wordlist
 https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist
 
 https://fr.wikipedia.org/wiki/Fran%C3%A7ais_fondamental
+
+http://lexiquefle.canalblog.com/archives/2007/06/04/8005581.html
+
+http://www.lexique.org/
