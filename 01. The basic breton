@@ -920,254 +920,104 @@
 76. lur
 
 		"M:"
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
-85.
-86.
-87.
-88.
-89.
-90.
-91.
-92.
-93.
-94.
-95.
-96.
-97.
-98.
-99.
-100.
-101.
-102.
-103.
-104.
-105.
-106.
-107.
-108.
-109.
-110.
-111.
-112.
-113.
-114.
-115.
-116.
-117.
-118.
-119.
-120.
-121.
-122.
-123.
-124.
-125.
-126.
-127.
-128.
-129.
-130.
-131.
-132.
-133.
-134.
-135.
-136.
-137.
-138.
-139.
-140.
-141.
-142.
-143.
-144.
-145.
-146.
-147.
-148.
-149.
-150.
-    ma
-    mab
-    mab-bihan
-    mab-kaer
-    madelezh
-    Mae
-    maen
-    maez
-    magañ
-    mall
-    mallozh
-    mamm
-    mamm-gaer
-    mamm-gozh
-    mañ
-    manac'h
-    maneg
-    mantell
-    mantilli
-    maouez
-    mar
-    marc'h
-    marc'had
-    marc'had-mat
-    marc'hadour
-    marteze
-    martolod
-    marv
-    mat
-    matezh
-    me
-    medisin
-    mein
-    mel
-    melen
-    melezour
-    menec'h
-    menez
-    mennozh
-    ment
-    merc'h
-    Merc'her
-    merc'h-kaer
-    merc'h-vihan
-    merenn
-    merennañ
-    merk
-    merkañ
-    mervel
-    mervent
-    meskañ
-    mestr
-    mestr-skol
-    met
-    meud
-    meuleudi
-    meuliñ
-    meur
-    Meurzh
-    mevel
-    mezh
-    mezher
-    Mezheven
-    mibien
-    micher
-    micherour
-    mignon
-    mil
-    milin
-    miliner
-    mintin
-    mirout
-    mistri
-    mistri-skol
-    mitizhien
-    miz
-    moan
-    moc'h
-    moereb
-    moged
-    moger
-    mont
-    montr
-    mor
-    morzhed
-    morzhol
-    mouchouer
-    mouezh
-    mougañ
-    moullañ
-    mousc'hoarzh
-    mousc'hoarzhin
-    mui
-    munutenn
-    mut
-    muzell
-    muzul
-    muzuliañ
+1. ma
+2. mab
+3. mab-bihan
+4. mab-kaer
+5. madelezh
+6. Mae
+7. maen
+8. maez
+9. magañ
+10. mall
+11. mallozh
+12. mamm
+13. mamm-gaer
+14. mamm-gozh
+15. mañ
+16. manac'h
+17. maneg
+18. mantell
+19. mantilli
+20. maouez
+21. mar
+22. marc'h
+23. marc'had
+24. marc'had-mat    
+25. marc'hadour
+26. marteze
+27. martolod
+28. marv
+29. mat
+30. matezh
+31. me
+32. medisin
+33. mein
+34. mel
+35. melen
+36. melezour
+37. menec'h
+38. menez
+39. mennozh
+40. ment
+41. merc'h
+42. Merc'her
+43. merc'h-kaer
+44. merc'h-vihan
+45. merenn
+46. merennañ
+47. merk
+48. merkañ
+49. mervel
+50. mervent
+51. meskañ
+52. mestr
+53. mestr-skol
+54. met
+55. meud
+56. meuleudi
+57. meuliñ
+58. meur
+59. Meurzh
+60. mevel
+61. mezh
+62. mezher
+63. Mezheven
+64. mibien
+65. micher
+66. micherour
+67. mignon
+68. mil
+69. milin
+70. miliner
+71. mintin
+72. mirout
+73. mistri
+74. mistri-skol
+75. mitizhien
+76. miz
+77. moan
+78. moc'h
+79. moereb
+80. moged
+81. moger
+82. mont
+83. montr
+84. mor
+85. morzhed
+86. morzhol
+87. mouchouer
+88. mouezh
+89. mougañ
+90. moullañ
+91. mousc'hoarzh
+92. mousc'hoarzhin
+93. mui
+94. munutenn
+95. mut
+96. muzell
+97. muzul
+98. muzuliañ
 
 		"N:"
 1.
