@@ -26,8 +26,8 @@
 25. alies
 26. all
 27. aluzen
-28.  amañ
-29.    amanenn
+28. amañ
+29. amanenn
 30. amezeg
 31. ampart
 32. ampartiz
@@ -635,8 +635,6 @@
 55. huchal
 56. hunvre
 
-
-
 		"I:"
 1. i
 2. ibil
@@ -657,8 +655,6 @@
 17. izel
 18. izili
 
-
-   
 
 		"J:"
 1. jiletenn
@@ -762,369 +758,166 @@
 94. kilpenn
 95. kinnig
 96. kirri
-97.   kizell
-    kizhier
-    klañv
-    klask
-    kleier
-    kleiz
-    klemm
-    kleñved
-    kleuz
-    kleuzañ
-    klevout
-    kloc'h
-    klouar
-    kloued
-    kluchañ
-    koad
-    koan
-    koaniañ
-    koant
-    koar
-    koef
-    kof
-    koll
-    kompren
-    komz
-    kont
-    kontadenn
-    kontañ
-    kontell
-    kontilli
-    kontrol
-    kordenn
-    korf
-    korn
-    kouevr
-    kouezhañ
-    koulskoude
-    koulz
-    koumanant
-    koumoul
-    kousk
-    kousket
-    koust
-    koustañ
-    koustiañs
-    kozh
-    kozhni
-    kraoñ
-    kraou
-    krec'hin
-    kredenn
-    krediñ
-    kregiñ
-    kreisteiz
-    kreiz
-    krenañ
-    krenn
-    kreñv
-    kresk
-    kreskiñ
-    krevier
-    krib
-    kribañ
-    kriz
-    krizder
-    kroaz
-    kroc'hen
-    krog
-    krogenn
-    kromm
-    krougañ
-    krouiñ
-    kuit
-    kurun
-    kurunenn
-    kustum
-    kuzh
-    kuzhat
-    kuzh-heol
-    kuzul
-    kuzuliañ
-98.
-99.
-100.
-101.
-102.
-103.
-104.
-105.
-106.
-107.
-108.
-109.
-110.
-111.
-112.
-113.
-114.
-115.
-116.
-117.
-118.
-119.
-120.
-121.
-122.
-123.
-124.
-125.
-126.
-127.
-128.
-129.
-130.
-131.
-132.
-133.
-134.
-135.
-136.
-137.
-138.
-139.
-140.
-141.
-142.
-143.
-144.
-145.
-146.
-147.
-148.
-149.
-150.
+97. kizell
+98. kizhier
+99. klañv
+100. klask
+101. kleier
+102. kleiz
+103. klemm
+104. kleñved
+105. kleuz
+106. kleuzañ
+107. klevout
+108. kloc'h
+109. klouar
+110. kloued
+111. kluchañ
+112. koad
+113. koan
+114. koaniañ
+115. koant
+116. koar
+117. koef
+118. kof
+119. koll
+120. kompren
+121. komz
+122. kont
+123. kontadenn
+124. kontañ
+125. kontell
+126. kontilli
+127. kontrol
+128. kordenn
+129. korf
+130. korn
+131. kouevr
+132. kouezhañ
+133. koulskoude
+134. koulz
+135. koumanant
+136. koumoul
+137. kousk
+138. kousket
+139. koust
+140. koustañ
+141. koustiañs
+142. kozh
+143. kozhni
+144. kraoñ
+145. kraou
+146. krec'hin
+147. kredenn
+148. krediñ
+149. kregiñ
+150. kreisteiz
+151. kreiz
+152. krenañ
+153. krenn
+154. kreñv
+155. kresk
+156. kreskiñ
+157. krevier
+158. krib
+159. kribañ
+160. kriz
+161. krizder
+162. kroaz
+163. kroc'hen
+164. krog
+165. krogenn
+167. kromm
+168. krougañ
+169. krouiñ
+170. kuit
+171. kurun
+172. kurunenn
+173. kustum
+174. kuzh
+175. kuzhat
+176. kuzh-heol
+177. kuzul
+178. kuzuliañ
     
 
 		"L:"
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
-85.
-86.
-87.
-88.
-89.
-90.
-91.
-92.
-93.
-94.
-95.
-96.
-97.
-98.
-99.
-100.
-101.
-102.
-103.
-104.
-105.
-106.
-107.
-108.
-109.
-110.
-111.
-112.
-113.
-114.
-115.
-116.
-117.
-118.
-119.
-120.
-121.
-122.
-123.
-124.
-125.
-126.
-127.
-128.
-129.
-130.
-131.
-132.
-133.
-134.
-135.
-136.
-137.
-138.
-139.
-140.
-141.
-142.
-143.
-144.
-145.
-146.
-147.
-148.
-149.
-150.
-    labour
-    labourat
-    labous
-    laer
-    laerezh
-    laezh
-    lagad
-    lakaat
-    lamm
-    lammat
-    lamp
-    lann
-    laon
-    laouen
-    lart
-    las
-    lavar
-    lavarout
-    lazhañ
-    leal
-    lealded
-    lec'h
-    led
-    ledan
-    lein
-    leinañ
-    lemel
-    lemm
-    lenn
-    lêr
-    leskiñ
-    lestr
-    leue
-    leun
-    leuniañ
-    leur
-    lev
-    levenez
-    levr
-    lezel
-    lezenn
-    leziregezh
-    lezirek
-    lien
-    lies
-    linenn
-    liorzh
-    lipat
-    listri
-    liv
-    livañ
-    livioù
-    lizher
-    lizherenn
-    lizhiri
-    loa
-    loar
-    loen
-    loer
-    logod
-    lonkañ
-    losk
-    loskadur
-    lost
-    louet
-    lous
-    loustoni
-    louzañ
-    louzeier
-    louzoù
-    luc'hed
-    ludu
-    lugerniñ
-    Lun
-    lunedoù
-    lur
+1. labour
+2. labourat
+3. labous
+4. laer
+5. laerezh
+6. laezh
+7. lagad
+8. lakaat
+9. lamm
+10. lammat
+11. lamp
+12. lann
+13. laon
+14. laouen
+15. lart
+16. las
+17. lavar
+18. lavarout
+19. lazhañ
+20. leal
+21. lealded
+22. lec'h
+23. led
+24. ledan
+25. lein
+26. leinañ
+27. lemel
+28. lemm
+29. lenn
+30. lêr
+31. leskiñ
+32. lestr
+33. leue
+34. leun
+35. leuniañ
+36. leur
+37. lev
+38. levenez
+39. levr
+40. lezel
+41. lezenn
+42. leziregezh
+43. lezirek
+44. lien
+45. lies
+46. linenn
+47. liorzh
+48. lipat
+49. listri
+50. liv
+51. livañ
+52. livioù
+53. lizher
+54. lizherenn
+55. lizhiri
+56. loa
+57. loar
+58. loen
+59. loer
+60. logod
+61. lonkañ
+62. losk
+63. loskadur
+64. lost
+65. louet
+66. lous
+67. loustoni
+68. louzañ
+69. louzeier
+70. louzoù
+71. luc'hed
+72. ludu
+73. lugerniñ
+74. Lun
+75. lunedoù
+76. lur
 
 		"M:"
 1.
