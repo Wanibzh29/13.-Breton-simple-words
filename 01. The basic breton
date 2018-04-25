@@ -1247,290 +1247,140 @@
 45. ruz
 
 		"S:"
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
-85.
-86.
-87.
-88.
-89.
-90.
-91.
-92.
-93.
-94.
-95.
-96.
-97.
-98.
-99.
-100.
-101.
-102.
-103.
-104.
-105.
-106.
-107.
-108.
-109.
-110.
-111.
-112.
-113.
-114.
-115.
-116.
-117.
-118.
-119.
-120.
-121.
-122.
-123.
-124.
-125.
-126.
-127.
-128.
-129.
-130.
-131.
-132.
-133.
-134.
-135.
-136.
-137.
-138.
-139.
-140.
-141.
-142.
-143.
-144.
-145.
-146.
-147.
-148.
-149.
-150.
-    sachañ
-    sac'h
-    Sadorn
-    sae
-    sailh
-    sal
-    sall
-    samm
-    sammañ
-    sankañ
-    sant
-    santel
-    santout
-    saotr
-    saout
-    Saoz
-    saveteiñ
-    sav-heol
-    se
-    seblant
-    seblantout
-    sec'h
-    sec'hed
-    sec'hiñ
-    sec'hor
-    segal
-    seier
-    seitek
-    seiz
-    seizh
-    selaou
-    sell
-    sellout
-    seniñ
-    sent
-    sentiñ
-    serr
-    serriñ
-    servij
-    servijañ
-    servijer
-    setu
-    seul
-    seurt
-    sevel
-    seven
-    si
-    sil
-    silañ
-    siminal
-    sioul
-    sistr
-    siwazh
-    sizailh
-    sizhun
-    skalier
-    skañv
-    skeiñ
-    skeud
-    skeudenn
-    skeul
-    skevent
-    skiant
-    skiantek
-    skignañ
-    sklaer
-    sklêrijenn
-    skoaz
-    skoed
-    skol
-    skopañ
-    skorn
-    skornañ
-    Skos
-    skouarn
-    skouer
-    skoulm
-    skoulmañ
-    skrabañ
-    skrid
-    skrijañ
-    skrivagner
-    skrivañ
-    skubañ
-    skuilhañ
-    skuizh
-    solier
-    son
-    soñj
-    soñjal
-    sonn
-    soubañ
-    soudard
-    souezh
-    spered
-    spern
-    spi
-    spilhenn
-    spilhoù
-    splann
-    spont
-    spontañ
-    spoue
-    spoum
-    stad
-    stag
-    stagañ
-    stal
-    stank
-    stardañ
-    start
-    stekiñ
-    stennañ
-    ster
-    stêr
-    stered
-    stern
-    stlakañ
-    stok
-    stouiñ
-    stourm
-    strad
-    strak
-    strakañ
-    streviañ
-    strizh
-    stroñs
-    stroñsañ
-    studi
-    studiañ
-    stumm
-    stur
-    sukr
-    Sul
+1. sachañ
+2. sac'h
+3. Sadorn
+4. sae
+5. sailh
+6. sal
+7. sall
+8. samm
+9. sammañ
+10. sankañ
+11. sant
+12. santel
+13. santout
+14. saotr
+15. saout
+16. Saoz
+17. saveteiñ
+18. sav-heol
+19. se
+20. seblant
+21. seblantout
+22. sec'h
+23. sec'hed
+24. sec'hiñ
+25. sec'hor
+26. segal
+27. seier
+28. seitek
+29. seiz
+30. seizh
+31. selaou
+32. sell
+33. sellout
+34. seniñ
+35. sent
+36. sentiñ
+37. serr
+38. serriñ
+39. servij
+40. servijañ
+41. servijer
+42. setu
+43. seul
+44. seurt
+45. sevel
+46. seven
+47. si
+48. sil
+49. silañ
+50. siminal
+51. sioul
+52. sistr
+53. siwazh
+54. sizailh
+55. sizhun
+56. skalier
+57. skañv
+58. skeiñ
+59. skeud
+60. skeudenn
+61. skeul
+62. skevent
+63. skiant
+64. skiantek
+65. skignañ
+66. sklaer
+67. sklêrijenn
+68. skoaz
+69. skoed
+70. skol
+71. skopañ
+72. skorn
+73. skornañ
+74. Skos
+75. skouarn
+76. skouer
+77. skoulm
+78. skoulmañ
+79. skrabañ
+80. skrid
+81. skrijañ
+82. skrivagner
+83. skrivañ
+84. skubañ
+85. skuilhañ
+86. skuizh
+87. solier
+88. son
+89. soñj
+90. soñjal
+91. sonn  
+92. soubañ
+93. soudard
+94. souezh
+95. spered
+96. spern
+97. spi
+98. spilhenn
+99. spilhoù
+100. splann
+101. spont
+102. spontañ
+103. spoue
+104. spoum
+105. stad
+106. stag
+107. stagañ
+108. stal
+109. stank
+110. stardañ
+111. start
+112. stekiñ
+113. stennañ
+114. ster
+115. stêr
+116. stered
+117. stern
+118. stlakañ
+119. stok
+120. stouiñ
+121. stourm
+122. strad
+123. strak
+124. strakañ
+125. streviañ
+126. strizh
+127. stroñs
+128. stroñsañ
+129. studi
+130. studiañ
+131. stumm
+132. stur
+133. sukr
+134. Sul
 
 		"T:"
 1. tabut
