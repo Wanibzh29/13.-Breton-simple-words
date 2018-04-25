@@ -1077,277 +1077,127 @@
 14. ouzhpenn
    
 		"P:"
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
-85.
-86.
-87.
-88.
-89.
-90.
-91.
-92.
-93.
-94.
-95.
-96.
-97.
-98.
-99.
-100.
-101.
-102.
-103.
-104.
-105.
-106.
-107.
-108.
-109.
-110.
-111.
-112.
-113.
-114.
-115.
-116.
-117.
-118.
-119.
-120.
-121.
-122.
-123.
-124.
-125.
-126.
-127.
-128.
-129.
-130.
-131.
-132.
-133.
-134.
-135.
-136.
-137.
-138.
-139.
-140.
-141.
-142.
-143.
-144.
-145.
-146.
-147.
-148.
-149.
-150.
-    pa
-    padout
-    pae
-    paeañ
-    pajenn
-    pakad
-    pakañ
-    pal
-    paner
-    paot
-    paotr
-    paouez
-    paour
-    paourentez
-    paper
-    par
-    pardon
-    pardoniñ
-    park
-    parrez
-    pasaat
-    Pask
-    paz
-    pazenn
-    pe
-    pebezh
-    pec'hed
-    pec'hiñ
-    pedenn
-    peder
-    pediñ
-    peg
-    pegañ
-    pegeit
-    pegement
-    pegen
-    pegoulz
-    pehini
-    pell
-    pemoc'h
-    pemp
-    pemzek
-    penaos
-    penn
-    pennad
-    penn-kentañ
-    peoc'h
-    peoc'hus
-    peogwir
-    pep
-    per
-    perak
-    perc'henn
-    pere
-    perzh
-    peseurt
-    pesk
-    pesketa
-    pesketaer
-    pet
-    petra
-    peul
-    peurliesañ
-    pevar
-    pevarzek
-    pezh
-    pignat
-    piler
-    pinvidigezh
-    pinvidik
-    piv
-    piz
-    pizh
-    pizhoni
-    plac'h
-    plad
-    plaen
-    planken
-    plant
-    plantañ
-    pleg
-    plegañ
-    plenk
-    plijadur
-    plijout
-    plom
-    plouz
-    pluñv
-    poan
-    poazh
-    poazhañ
-    pobl
-    pod
-    poent
-    pok
-    pokat
-    pont
-    porpant
-    porzh
-    pouez
-    pouezañ
-    poull
-    poull-kalon
-    poultrenn
-    pounner
-    prad
-    pred
-    prenañ
-    prenestr
-    prenn
-    prennañ
-    preñv
-    prest
-    prestañ
-    pri
-    pried
-    priz
-    promesa
-    prometiñ
-    puñs
-    purgator
+1. pa
+2. padout
+3. pae
+4. paeañ
+5. pajenn
+6. pakad
+7. pakañ
+8. pal
+9. paner
+10. paot
+11. paotr
+12. paouez
+13. paour
+14. paourentez
+15. paper
+16. par
+17. pardon
+18. pardoniñ
+19. park
+20. parrez
+21. pasaat
+22. Pask
+23. paz
+24. pazenn
+25. pe
+26. pebezh
+27. pec'hed
+28. pec'hiñ
+29. pedenn
+30. peder
+31. pediñ
+32. peg
+33. pegañ
+34. pegeit
+35. pegement
+36. pegen
+37. pegoulz
+38. pehini
+39. pell
+40. pemoc'h
+41. pemp
+42. pemzek
+43. penaos
+44. penn
+45. pennad
+46. penn-kentañ
+47. peoc'h
+48. peoc'hus
+49. peogwir
+50. pep
+51. per
+52. perak
+53. perc'henn
+54. pere
+55. perzh
+56. peseurt
+57. pesk
+58. pesketa
+59. pesketaer
+60. pet
+61. petra
+62. peul
+63. peurliesañ
+64. pevar
+65. pevarzek
+66. pezh
+67. pignat
+68. piler
+69. pinvidigezh
+70. pinvidik
+71. piv
+72. piz
+73. pizh
+74. pizhoni
+75. plac'h
+76. plad
+77. plaen
+78. planken
+79. plant
+80. plantañ
+81. pleg
+82. plegañ
+83. plenk
+84. plijadur
+85. plijout
+86. plom
+87. plouz
+88. pluñv
+89. poan
+90. poazh
+91. poazhañ
+92. pobl
+93. pod
+94. poent
+95. pok
+96. pokat
+97. pont
+98. porpant
+99. porzh
+100. pouez
+101. pouezañ
+102. poull
+103. poull-kalon
+104. poultrenn
+105. pounner
+106. prad
+107. pred
+108. prenañ
+109. prenestr
+110. prenn
+111. prennañ
+112. preñv
+113. prest
+114. prestañ
+115. pri
+116. pried
+117. priz
+118. promesa
+119. prometiñ
+120. puñs
+121. purgator
 
 		"R:"
 1.
