@@ -1,42 +1,104 @@
-table
-buffet
-chaise
-lit
-armoire
-table de nuit
-fauteuil
-cuisinière
-placard
-bureau
-bibliothèque
-poste
-étagère
-gaz
-banc
-table à toilette
-divan
-commode
-machine à coudre
-pendule
-poêle
-garde-manger
-cosy
-garde-robe
-porte-manteau
-glace
-piano
-tabouret
-évier
-tiroir
-cadre
-chaise longue
-penderie
-bahut
-table ronde
-desserte
-canapé
-lingère
-glacière
-frigidaire
-baignoire
-vitrine
+	"A:"
+1. armoire = 
+
+	"B:"
+1. bahut = 
+2. baignoire = 
+3. banc = 
+4. bibliothèque =
+5. buffet = 
+6. bureau = 
+
+	"C:" 
+1. cadre = 
+2. canapé = 
+3. chaise = 
+4. chaise longue =
+5. commode = 
+6. cosy = 
+7. cuisinière = 
+
+	"D:"
+1. desserte = 
+2. divan = 
+
+	"E:"
+1. étagère = 
+2. évier = 
+
+	"F:"
+1. fauteuil = 
+2. frigidaire = 
+
+	"G:"
+1. garde-manger = 
+2. garde-robe = 
+3. gaz = 
+4. glace = 
+5. glacière = 
+
+	"H:"
+1. 
+
+	"I:"
+1. 
+
+	"J:"
+1. 
+
+	"K:"
+1. 
+
+	"L:"
+1. lingère = 
+2. lit = 
+
+	"M:"
+1. machine à coudre = 
+
+	"N:"
+1. 
+
+	"O:"
+1. 
+
+	"P:"
+1. penderie = 
+2. pendule = 
+3. piano = 
+4. placard = 
+5. poêle = 
+6. porte-manteau = 
+7. poste = 
+
+	"R:"
+1. 
+
+  "Q:"
+1. 
+
+	"S:"
+1. 
+
+  "T:"
+1. table = 
+2. table à toilette = 
+3. table de nuit = 
+4. table ronde = 
+5. tabouret = 
+6. tiroir = 
+
+	"U:"
+1. 
+
+	"V:"
+1. vitrine = 
+
+	"W:"
+1. 
+
+	"Y:"
+1. 
+
+	"Z:"
+1. 
