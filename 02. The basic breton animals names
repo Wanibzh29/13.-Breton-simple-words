@@ -1,46 +1,102 @@
-chien = ki ; ar c'hi ; ar giez* ; chas ; ar chas ;
-vache = buoc'h ; ar vuoc'h* ; saout ; ar saout ;
-chat = kazh ; ar c'hazh ; ar gazhez* ; kizhier ; ar c'hizhier ;
-lion = leon ; al leon ; al leonez* ; leoned ; leonezed* ; al leoned ; al leonezed* ;
-poule = yar ; ar yar* ; yer ; ar yer ;
-lapin = lapin ; al lapin ; al lapinez* ; lapined ; al lapinezed* ;
-tigre = tigr ; an tigr ; an digrez* ; tigred ; an tigred ; an tigrezed* ;
-bœuf = ejen ; an ejen ; ejened ; an ejened ;
-éléphant = olifant ; an olifant ; an olifantez* ; olifanted ; an olifanted ; an olifantezed* ;
-cheval = marc'h ; ur marc'h ; ur gazeg* ; kezeg ; ar c'hezeg ; ar c'hezekenned* ;
-panthère = panterenn* ; ar banterenn* ; pantered ; ar pantered ;
-mouton = dañvad ; an dañvad ; an dañvadez* ; deñved ; an deñved ; an dañvadezed* ;
-canard = houad ; an houad ; an houadez ; houidi ; an houidi ;
-chèvre = 
-singe
-âne
-cochon
-loup
-renard
-porc
-girafe
-coq
-oie
-veau
-chevaux
-dindon
-sanglier
-taureac
-brebis
-pigeon
-rhinocéros
-ours
-hippopotame
-lièvre
-chameau
-pintade
-cerf
-jument
-biche
-serpent
-dinde
-mulet
-rat
-crocodile
-zèbre
-souris
+	"A:"
+1. âne = 
+
+	"B:"
+1. biche = 
+2. bœuf = ejen ; an ejen ; ejened ; an ejened ;
+3. brebis = 
+
+   "C:"
+1. canard = houad ; an houad ; an houadez ; houidi ; an houidi ;
+2. cerf = 
+3. chameau = 
+4. chat = kazh ; ar c'hazh ; ar gazhez* ; kizhier ; ar c'hizhier ;
+5. cheval = marc'h ; ur marc'h ; ur gazeg* ; kezeg ; ar c'hezeg ; ar c'hezekenned* ;
+6. chevaux = 
+7. chèvre = 
+8. chien = ki ; ar c'hi ; ar giez* ; chas ; ar chas ;
+9. cochon = 
+10. coq = 
+11. crocodile = 
+
+	"D:"
+1. dinde = 
+2. dindon = 
+
+	"E:"
+1. éléphant = olifant ; an olifant ; an olifantez* ; olifanted ; an olifanted ; an olifantezed* ;
+
+	"F:"
+1. 
+
+	"G:"
+1. girafe = 
+
+	"H:"
+1. hippopotame = 
+
+	"I:"
+1. 
+
+	"J:"
+1. jument = 
+
+	"K:"
+1. 
+
+	"L:"
+1. lapin = lapin ; al lapin ; al lapinez* ; lapined ; al lapinezed* ;
+2. lièvre = 
+3. lion = leon ; al leon ; al leonez* ; leoned ; leonezed* ; al leoned ; al leonezed* ;
+4. loup = 
+
+	"M:"
+1. mouton = dañvad ; an dañvad ; an dañvadez* ; deñved ; an deñved ; an dañvadezed* ;
+2. mulet = 
+
+	"N:"
+1. 
+
+	"O:"
+1. oie = 
+2. ours = 
+
+	"P:"
+1. panthère = panterenn* ; ar banterenn* ; pantered ; ar pantered ;
+2. pigeon = 
+3. pintade = 
+4. porc = 
+5. poule = yar ; ar yar* ; yer ; ar yer ;
+
+	"Q:"
+
+	"R:"
+1. rat = 
+2. renard = 
+3. rhinocéros = 
+
+	"S:"
+1. sanglier = 
+2. serpent = 
+3. singe = 
+4. souris = 
+
+	"T:"
+1. taureau = 
+2. tigre = tigr ; an tigr ; an digrez* ; tigred ; an tigred ; an tigrezed* ;
+
+	"U:"
+1. 
+
+	"V:"
+1. vache = buoc'h ; ar vuoc'h* ; saout ; ar saout ;
+2. veau = 
+
+	"W:"
+1. 
+
+	"Y:"
+1. 
+
+	"Z:"
+1. zèbre = 
