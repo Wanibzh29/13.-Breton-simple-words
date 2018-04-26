@@ -1,40 +1,102 @@
-fenêtre
-porte
-mur
-grenier
-cheminée
-chambre
-plancher
-plafond
-cuisine
-cave
-escalier
-salle à manger
-tuile
-toit
-couloir
-poutre
-charpente
-salle de bains
-carreau
-cloison
-balcon
-évier
-toiture
-volet
-contrevent
-vitre
-plinthe
-cabinet de toilette
-cabinet
-brique
-pierre
-ardoise
-dalle
-débarras
-terrasse
-plâtre
-mansarde
-ciment
-chevron
-bureau
+	"A:"
+1. ardoise = 
+
+	"B:"
+1. balcon = 
+2. brique = 
+3. bureau = 
+
+  "C:"
+1. cabinet = 
+2. cabinet de toilette = 
+3. carreau = 
+4. cave = 
+5. chambre = 
+6. charpente = 
+7. cheminée = 
+8. chevron = 
+9. ciment = 
+10. cloison = 
+11. contrevent = 
+12. couloir = 
+13. cuisine = 
+
+	"D:"
+1. dalle = 
+2. débarras = 
+
+	"E:"
+1. escalier = 
+2. évier = 
+
+	"F:"
+1. fenêtre = 
+
+	"G:"
+1. grenier = 
+
+	"H:"
+1. 
+
+	"I:"
+1. 
+
+	"J:"
+1. 
+
+	"K:"
+1. 
+
+	"L:"
+1. 
+
+	"M:"
+1. mansarde = 
+2. mur = 
+
+	"N:"
+1. 
+
+	"O:"
+1. 
+
+	"P:"
+1. pierre = 
+2. plafond = 
+3. plancher = 
+4. plâtre = 
+5. plinthe = 
+6. porte = 
+7. poutre = 
+
+  "Q:"
+1. 
+
+ 	"R:"
+1. 
+
+	"S:"
+1. salle à manger = 
+2. salle de bains = 
+
+	"T:"
+1. terrasse = 
+2. toit = 
+3. toiture = 
+4. tuile = 
+
+	"U:"
+1. 
+
+	"V:"
+1. vitre = 
+2. volet = 
+
+	"W:"
+1. 
+
+	"Y:"
+1. 
+
+	"Z:"
+1. 
