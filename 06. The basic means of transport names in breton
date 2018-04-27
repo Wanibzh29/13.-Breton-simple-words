@@ -1,50 +1,109 @@
-camion
-train
-avion
-bateau
-moto
-auto
-charrette
-car
-bicyclette
-micheline
-autobus
-tramway
-vélo
-vélomoteur
-camionnette
-brouette
-tracteur
-diligence
-remorque
-paquebot
-taxi
-hélicoptère
-automobile
-voiture
-métro
-wagon
-autocar
-autorail
-barque
-péniche
-chariot
-cheval
-scooter
-téléphérique
-locomotive
-chevaux
-tram
-express
-mobylette
-hydravion
-traîneau
-char
-side-car
-omnibus
-bœuf
-carrosse
-roulotte
-âne
-tank
-chameau
+	"A:"
+1. âne = 
+2. auto = 
+3. autobus = 
+4. autocar = 
+5. automobile = 
+6. autorail = 
+7. avion = 
+
+	"B:"
+1. barque = 
+2. bateau = 
+3. bicyclette = 
+4. bœuf = 
+5. brouette = 
+
+	"C:"
+1. camion = 
+2. camionnette = 
+3. car = 
+4. carrosse = 
+5. chameau = 
+6. char = 
+7. chariot = 
+8. charrette = 
+9. cheval = 
+10. chevaux = 
+
+	"D:"
+1. diligence = 
+
+	"E:"
+1. express = 
+
+	"F:"
+1. 
+
+	"G:"
+1. 
+
+	"H:"
+1. hélicoptère = 
+2. hydravion = 
+
+	"I:"
+1. 
+
+	"J:"
+1. 
+
+	"K:"
+1. 
+
+	"L:"
+1. locomotive = 
+
+	"M:"
+1. métro = 
+2. micheline = 
+3. mobylette = 
+4. moto = 
+
+	"N:"
+1. 
+
+	"O:"
+1. omnibus = 
+
+	"P:"
+1. paquebot = 
+2. péniche = 
+
+ 	"Q:"
+1. 
+
+	"R:"
+1. remorque = 
+2. roulotte = 
+
+	"S:"
+1. scooter = 
+2. side-car = 
+
+	"T:"
+1. tank = 
+2. taxi = 
+3. téléphérique = 
+4. tracteur = 
+5. train = 
+6. traîneau = 
+7. tram = 
+8. tramway = 
+
+	"U:"
+1. 
+
+	"V:"
+1. vélo = 
+2. vélomoteur =
+3. voiture = 
+
+	"W:"
+1. wagon = 
+
+	"Y:"
+1. 
+
+	"Z:"
+1. 
