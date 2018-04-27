@@ -1,58 +1,118 @@
-chemise
-veste
-tablier
-manteau
-gilet
-culotte
-robe
-chaussette
-jupe
-combinaison
-pantalon
-cravate
-bas
-gants
-béret
-imperméable
-blouse
-chapeau
-corsage
-pull-over
-cache-nez
-blouson
-caleçon
-corset
-slip
-socquettes
-souliers
-canadienne
-soutien-gorge
-pardessus
-cache-col
-gabardine
-capuchon
-ceinture
-gilet de peau
-chemise de nuit
-foulard
-casquette
-pyjama
-écharpe
-costume
-bonnet
-veston
-chemisier
-flanelle
-chemisette
-short
-mouchoir
-cape
-chaussures
-col
-pantoufles
-sabots
-les feutres
-tricot de peau
-maillot
-bottes
-tailleur
+	"A:"
+1. 
+
+	"B:"
+1. bas = 
+2. béret = 
+3. blouse = 
+4. blouson = 
+5. bonnet = 
+6. bottes = 
+
+	"C:"
+1. cache-col = 
+2. cache-nez = 
+3. caleçon = 
+4. canadienne = 
+5. cape = 
+6. capuchon = 
+7. casquette = 
+8. ceinture = 
+9. chapeau = 
+10. chaussette = 
+11. chaussures = 
+12. chemise = 
+13. chemise de nuit = 
+14. chemisette = 
+15. chemisier = 
+16. col = 
+17. combinaison = 
+18. corsage = 
+19. corset = 
+20. costume = 
+21. cravate = 
+22. culotte = 
+
+	"D:"
+1. 
+
+	"E:"
+1. écharpe = 
+
+	"F:"
+1. flanelle = 
+2. foulard = 
+
+	"G:"
+1. gabardine = 
+2. gants = 
+3. gilet = 
+4. gilet de peau = 
+
+	"H:"
+1. 
+
+	"I:"
+1. imperméable = 
+
+	"J:"
+1. jupe = 
+
+	"K:"
+1. 
+
+	"L:"
+1. les feutres = 
+
+	"M:"
+1. maillot = 
+2. manteau = 
+3. mouchoir = 
+
+	"N:"
+1. 
+
+	"O:"
+1. 
+
+	"P:"
+1. pantalon = 
+2. pantoufles = 
+3. pardessus = 
+4. pull-over = 
+5. pyjama = 
+
+	"Q:"
+1. 
+
+	"R:"
+1. robe = 
+
+	"S:"
+1. sabots = 
+2. short = 
+3. slip = 
+4. socquettes = 
+5. souliers = 
+6. soutien-gorge = 
+
+	"T:"
+1. tablier = 
+2. tailleur =
+3. tricot de peau = 
+
+	"U:"
+1. 
+
+	"V:"
+1. veste = 
+2. veston = 
+
+	"W:"
+1. 
+
+	"Y:"
+1. 
+
+	"Z:"
+1. 
