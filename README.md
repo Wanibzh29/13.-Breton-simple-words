@@ -10,7 +10,9 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 
 ## II. Description
 You will find a several list of words which are the base of the simple breton.
-This work is based on these articles:
+
+
+## III. This work is based on these articles:
 
 - https://br.wikipedia.org/wiki/Brezhoneg_eeun
 
